@@ -10,4 +10,6 @@ Customer Demographics & Spending Habits: Analysis of customer demographics, inco
 Data-Driven Credit Card Features: Insights from the analysis suggested customizing credit card rewards and benefits to match these diverse customer segments.
 
 Linkedin: https://www.linkedin.com/posts/mahalakshmi-m-822064286_codebasics-codebasicsresumeproject-dataanalytics-activity-7142513528602513410-vb1v?utm_source=share&utm_medium=member_desktop
+
+
 Live Dash Board : https://lnkd.in/geTFvfvi
